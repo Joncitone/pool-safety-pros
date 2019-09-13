@@ -1,4 +1,5 @@
 
+<<<<<<< HEAD
 
 
 
@@ -1120,3 +1121,6 @@
   </body>
 </html>
 
+=======
+This is a commissioned website I'm making with HTML, CSS, and Javascript.
+>>>>>>> 36768c5cb0c7cc1457bd7f49432b67704f5e609c
