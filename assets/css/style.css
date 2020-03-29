@@ -1,8 +1,8 @@
 /*
-  Template Name: Varsity
-  Author : MarkUps
-  Author URI: http://www.markups.io/
-  Version: 1.0
+  Template Name:
+  Author :
+  Author URI:
+  Version:
   Tags: light, white, education, online education, school, college, university multi page, custom-colors, Bootstrap, responsive, html5, css3, Sass, template, web template
 
 */
@@ -180,6 +180,8 @@ img {
  NAVBAR SECTION
 ====================*/
 #mu-menu {
+  background-color: #f8f8f8;
+  color: #ffffff;
   display: inline;
   float: left;
   width: 100%;
@@ -190,7 +192,7 @@ img {
   font-size: 26px;
   font-weight: bold;
   text-transform: uppercase;
-  padding-top: 20px;
+  padding-top: 5px;
   letter-spacing: 0.5px;
 }
 #mu-menu .navbar-header .navbar-brand i {
@@ -200,13 +202,16 @@ img {
   margin-left: 4px;
 }
 #mu-menu .navbar-default {
-  background-color: #fff;
+  background-color: #002366;
   border-radius: 0;
   border-left: none;
   border-right: none;
   margin-bottom: 0px;
 }
+
+
 #mu-menu .navbar-default .navbar-nav li > a {
+  color: #fff;
   border-bottom: 2px solid transparent;
   padding-bottom: 25px;
   padding-top: 25px;
@@ -217,14 +222,17 @@ img {
   -o-transition: all 0.5s;
   transition: all 0.5s;
 }
+
 #mu-menu .navbar-default .navbar-nav li #mu-search-icon:hover, #mu-menu .navbar-default .navbar-nav li #mu-search-icon:focus {
   border: none;
 }
+
+
 #mu-menu .navbar-default .navbar-nav li .dropdown-menu {
   border-radius: 0px;
 }
 #mu-menu .navbar-default .navbar-nav li .dropdown-menu li a {
-  color: #333333;
+  color: #333;
   padding-top: 10px;
   padding-bottom: 10px;
 }
