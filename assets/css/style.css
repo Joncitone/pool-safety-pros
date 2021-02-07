@@ -811,13 +811,14 @@ img {
   width: 100%;
 }
 #mu-our-teacher .mu-our-teacher-area {
-  display: inline;
-  float: left;
+  align-self: center;
+  display: inline-block;
+
   width: 100%;
 }
 #mu-our-teacher .mu-our-teacher-area .mu-our-teacher-content {
-  display: inline;
-  float: left;
+  align-self: center;
+  display: inline-block;
   margin-top: 50px;
   width: 100%;
 }
